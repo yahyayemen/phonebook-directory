@@ -1,0 +1,32 @@
+app/src/main/java/com/phonebook/directory/
+   ├── MainActivity.java
+   ├── DatabaseHelper.java
+   ├── Contact.java
+   ├── ContactAdapter.java
+   └── CallerIDService.java
+
+app/src/main/res/
+   ├── layout/
+   │   ├── activity_main.xml
+   │   └── contact_item.xml
+   ├── menu/
+   │   ├── main_menu.xml
+   │   └── contact_menu.xml
+   ├── values/
+   │   ├── strings.xml
+   │   ├── colors.xml
+   │   └── arrays.xml
+   └── drawable/
+       ├── ic_menu.xml
+       ├── ic_search.xml
+       ├── ic_call.xml
+       ├── ic_sms.xml
+       ├── ic_edit.xml
+       ├── ic_save.xml
+       ├── ic_import.xml
+       ├── ic_export.xml
+       ├── ic_sync.xml
+       ├── ic_update.xml
+       ├── ic_settings.xml
+       ├── circle_button.xml
+       └── contact_item_background.xml

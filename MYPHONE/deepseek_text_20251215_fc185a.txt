@@ -1,0 +1,25 @@
+دليل هاتفي/
+├── app/
+│   ├── src/
+│   │   └── main/
+│   │       ├── java/com/phonebook/directory/
+│   │       │   ├── MainActivity.java
+│   │       │   ├── DatabaseHelper.java
+│   │       │   ├── Contact.java
+│   │       │   ├── ContactAdapter.java
+│   │       │   └── CallerIDService.java
+│   │       ├── res/
+│   │       │   ├── layout/
+│   │       │   │   ├── activity_main.xml
+│   │       │   │   └── contact_item.xml
+│   │       │   ├── menu/
+│   │       │   │   ├── main_menu.xml
+│   │       │   │   └── contact_menu.xml
+│   │       │   ├── values/
+│   │       │   │   ├── strings.xml
+│   │       │   │   ├── colors.xml
+│   │       │   │   └── arrays.xml
+│   │       │   └── drawable/
+│   │       └── AndroidManifest.xml
+│   └── build.gradle
+└── README.md

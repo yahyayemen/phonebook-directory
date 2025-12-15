@@ -1,0 +1,9 @@
+phonebook-app/
+├── index.html          (الملف الرئيسي)
+├── manifest.json       (لتطبيق PWA)
+├── service-worker.js   (للعمل بدون إنترنت)
+├── assets/
+│   ├── css/
+│   ├── js/
+│   └── icons/
+└── README.md

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_contact_call"
+          android:title="اتصال"/>
+    <item android:id="@+id/menu_contact_sms"
+          android:title="رسالة"/>
+    <item android:id="@+id/menu_contact_edit"
+          android:title="تعديل"/>
+    <item android:id="@+id/menu_contact_delete"
+          android:title="حذف"/>
+    <item android:id="@+id/menu_contact_view_similar"
+          android:title="عرض الأرقام المتشابهة"/>
+</menu>

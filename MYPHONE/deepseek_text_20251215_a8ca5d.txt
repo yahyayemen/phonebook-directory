@@ -1,0 +1,5 @@
+App name: دليل هاتفي
+Package: com.phonebook.directory
+Minimum SDK: 21 (Android 5.0)
+Template: Empty Activity
+Language: Java

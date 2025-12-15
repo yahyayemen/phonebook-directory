@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_import"
+          android:title="استيراد"
+          android:icon="@drawable/ic_import"/>
+    <item android:id="@+id/menu_export"
+          android:title="تصدير"
+          android:icon="@drawable/ic_export"/>
+    <item android:id="@+id/menu_sync"
+          android:title="مزامنة"
+          android:icon="@drawable/ic_sync"/>
+    <item android:id="@+id/menu_update"
+          android:title="تحديث"
+          android:icon="@drawable/ic_update"/>
+    <item android:id="@+id/menu_settings"
+          android:title="إعدادات"
+          android:icon="@drawable/ic_settings"/>
+</menu>
